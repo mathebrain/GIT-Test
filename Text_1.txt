@@ -1,8 +1,4 @@
 My name is Thomas.
-<<<<<<< HEAD
 Hallo wie geht es den ?
 Ich arbeite bei der msg systems.
-=======
-Ich arbeite bei der msg systems.
 ich auch !!!!
->>>>>>> fd3b25e778537cf740156a413e4d0d9e8fd013aa
