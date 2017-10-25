@@ -1,7 +1,11 @@
 My name is Thomas.
 Hallo wie geht es den ?
 Mir geht es gut und dir????
+<<<<<<< HEAD
 Mir geht es gut!!!!
+=======
+Mir geht es super und wie geht es euch?
+>>>>>>> 0a0fca85caddf7b462c93f78644bb3e75897886e
 Ich arbeite bei der msg systems.
 ich auch !!!!
 Hallo Eva, wie geht es dir?
